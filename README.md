@@ -25,7 +25,7 @@ This is a **Next Word Prediction** web application built using **TensorFlow/Kera
 ---
 
 ## 📂 Project Structure
-
+'''
 📂 next-word-prediction
 │
 ├── 📝 host.py                  # Streamlit app file
@@ -34,7 +34,7 @@ This is a **Next Word Prediction** web application built using **TensorFlow/Kera
 │   ├── 💾 next_word_model.h5   # Trained LSTM model
 │   └── 💾 tokenizer.pkl        # Tokenizer used during training
 └── 📄 README.md                # Project documentation
-
+'''
 
 🎯 Future Improvements
 
