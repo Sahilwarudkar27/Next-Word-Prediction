@@ -1,4 +1,4 @@
-📝 Next Word Prediction 
+### 📝 Next Word Prediction 
 
 This is a **Next Word Prediction** web application built using **TensorFlow/Keras** and **Streamlit**. The app predicts the next few words in a sentence based on the text you provide, making it fun and interactive! ✨
 
