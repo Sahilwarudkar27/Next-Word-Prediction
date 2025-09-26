@@ -25,6 +25,7 @@ This is a **Next Word Prediction** web application built using **TensorFlow/Kera
 ---
 
 ## 📂 Project Structure
+
 📂 next-word-prediction
 │
 ├── 📝 host.py                  # Streamlit app file
