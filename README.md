@@ -25,14 +25,15 @@ This is a **Next Word Prediction** web application built using **TensorFlow/Kera
 ---
 
 ## 📂 Project Structure
-next-word-prediction/
+📂 next-word-prediction
 │
-├── host.py                   # Streamlit app file
-├── requirements.txt          # Python dependencies
-├── model/                    # Folder containing trained model and tokenizer
-│   ├── next_word_model.h5    # Trained LSTM model
-│   └── tokenizer.pkl         # Tokenizer used during training
-└── README.md                 # Project documentation
+├── 📝 host.py                  # Streamlit app file
+├── 📦 requirements.txt         # Python dependencies
+├── 🗂️ model/                   # Folder containing trained model and tokenizer
+│   ├── 💾 next_word_model.h5   # Trained LSTM model
+│   └── 💾 tokenizer.pkl        # Tokenizer used during training
+└── 📄 README.md                # Project documentation
+
 
 🎯 Future Improvements
 
@@ -46,6 +47,7 @@ Host the app online using Streamlit Cloud or Heroku.
 📫 Contact
 
 For any questions, suggestions, or contributions:
+
 📧 Email: sahilwarudkar2002@gmail.com
 
 🌐 GitHub: Sahilwarudkar27
